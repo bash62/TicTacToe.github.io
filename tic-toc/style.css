@@ -1,0 +1,39 @@
+
+.vertical-center {
+ 
+
+  display: flex;
+  align-items: center;
+
+}
+
+.coeur {
+	max-width: 22px;
+}
+
+ h1{
+	padding-bottom: 40px;
+}
+
+
+ul {
+
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+
+}
+
+li {
+
+	list-style: none;
+	background-color: #6f42c1;
+	width: 70px;
+	height: 70px;
+	margin: 5px;
+	font-style: bold;
+	text-align: center;
+	font-size: 42px;
+	font-weight: 45px;
+
+}
